@@ -13,6 +13,10 @@
 sudo apt install -y tor torbrowser-launcher
 ```
 
+## Install Tor on linux
+```sh
+torbrowser-launcher
+```
 
 
 
