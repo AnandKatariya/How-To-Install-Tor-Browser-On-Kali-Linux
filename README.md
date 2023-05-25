@@ -7,3 +7,13 @@
 
 ### 🏠 [Homepage](https://github.com/AnandKatariya?tab=repositories)
 
+
+## Install launcher on linux
+```sh
+sudo apt install -y tor torbrowser-launcher
+```
+
+
+
+
+
