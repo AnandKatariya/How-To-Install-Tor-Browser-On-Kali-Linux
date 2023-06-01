@@ -17,3 +17,7 @@ sudo apt install -y tor torbrowser-launcher
 ```sh
 torbrowser-launcher
 ```
+
+## Author
+
+👤 **Anand Katariya**
