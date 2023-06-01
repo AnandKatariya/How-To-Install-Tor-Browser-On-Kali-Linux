@@ -21,3 +21,4 @@ torbrowser-launcher
 ## Author
 
 👤 **Anand Katariya**
+* Github: [@AnandKatariya](https://github.com/AnandKatariya)
