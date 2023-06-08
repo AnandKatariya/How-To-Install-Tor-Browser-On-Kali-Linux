@@ -22,3 +22,7 @@ torbrowser-launcher
 
 👤 **Anand Katariya**
 * Github: [@AnandKatariya](https://github.com/AnandKatariya)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/How-To-Install-Tor-Browser-On-Kali-Linux/issues).
